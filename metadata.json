@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Studio",
+  "description": "基于 Gemini 2.5 Flash Image 模型的高性能创意工作室。支持文生图、图生图和节点式工作流编辑器。",
+  "requestFramePermissions": []
+}
